@@ -28,7 +28,7 @@ body {
      min-height: 100vh;
      color: var(--text-color);
      background-color: var(--background-color);
-     background-image: url(../img/background.jpg);
+     background-image: url(../img/background.jpeg);
      background-size: cover;
 }
 
