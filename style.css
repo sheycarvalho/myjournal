@@ -9,7 +9,6 @@
 @media (prefers-color-scheme: dark) {
     :root {
     --text-color: #ecf0f1;
-    --background-color: #12161a;
 }
 }
 
@@ -27,7 +26,6 @@ body {
      align-items: center; /* Centraliza os itens filhos */
      min-height: 100vh;
      color: var(--text-color);
-     background-color: var(--background-color);
      background-image: url(../img/background.jpeg);
      background-size: cover;
 }
