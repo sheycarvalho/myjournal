@@ -1,1 +1,3 @@
-Projeto "Meu diário"
+Projeto "Meu diário" 👩‍💻
+
+Exercício da Tutoria
