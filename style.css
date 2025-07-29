@@ -88,9 +88,9 @@ button {
     background: #14191c;
     background: linear-gradient(90deg, rgba(20, 25, 28, 1) 30%, rgba(31, 31, 33, 1) 55%, rgba(0, 0, 0, 1) 89%);
     color: #ffffff;
-    padding: 6px;
+    padding: 8px;
     border-radius: 10px;
-    font-size: 10px;
+    font-size: 12px;
     border: none;
     font-family: 'Times New Roman', Times, serif;
 }
